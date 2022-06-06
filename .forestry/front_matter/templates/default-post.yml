@@ -8,5 +8,10 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: draft
+  type: text
+  config:
+    required: false
+  label: draft
 pages:
 - content/posts/i-ve-set-up-forestry.md
