@@ -1,57 +1,43 @@
 baseURL = "http://entirelydifferentmatters.github.io/"
 languageCode = "en-us"
-title = "Entirely Different Matters"
 theme = "cactus"
-
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
-
-[[menu.main]]
-name = "Posts"
-url = "/posts"
-weight = 2
-
-[[menu.main]]
-name = "Projects"
-url = "/projects"
-weight = 3
-
+title = "Entirely Different Matters"
 [[menu.main]]
 name = "About"
 url = "/about"
 weight = 4
-
-
+[[menu.main]]
+name = "Projects"
+url = "/projects"
+weight = 3
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 2
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
 [params]
-
-  colortheme = "dark" # dark, light, white, or classic
-  rss = false # generate rss feed. default value is false
-  googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
-  showAllPostsArchive = false # default
-
-  # Home page settings
-  description = "Occasional rants and essays"
-  mainSection = "posts" # your main section
-  showAllPostsOnHomePage = false # default
-  postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
-  tagsOverview = true # show tags overview by default.
-  showProjectsList = false # show projects list by default (if projects data file exists).
-  projectsUrl = "https://github.com/gohugoio" # title link for projects list
-
-  # Post page settings
-  show_updated = true # default
-  showReadTime = true # default
-  
-  # the value of name should be an valid font awesome icon name (brands type)
-  # https://fontawesome.com/icons?d=gallery&s=brands
-  [[params.social]]
-    name = "github"
-    link = "https://github.com/Kaapeine"
-  [[params.social]]
-    name = "linkedin"
-    link = "https://www.linkedin.com/shrivathsams"
-  [[params.social]]
-    name = "email"
-    link = "msshrivathsa@gmail.com"  # no need for "mailto:" in the head
+colortheme = "dark"
+description = "Occasional rants and essays"
+googleAnalyticsAsync = true
+mainSection = "posts"
+postsOnHomePage = 5
+projectsUrl = "https://github.com/gohugoio"
+rss = false
+showAllPostsArchive = false
+showAllPostsOnHomePage = false
+showProjectsList = false
+showReadTime = true
+show_updated = true
+tagsOverview = true
+[[params.social]]
+link = "https://github.com/Kaapeine"
+name = "github"
+[[params.social]]
+link = "https://www.linkedin.com/shrivathsams"
+name = "linkedin"
+[[params.social]]
+link = "msshrivathsa@gmail.com"
+name = "email"
