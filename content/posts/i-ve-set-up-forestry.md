@@ -1,6 +1,5 @@
 +++
 date = 2022-06-05T18:30:00Z
-draft = true
 title = "I've set up Forestry"
 
 +++
