@@ -1,7 +1,7 @@
 ---
 title: "Ricing as an artistic expression of laziness"
 date: 2022-06-06T00:37:07+05:30
-draft: false 
+draft: true 
 ---
 I finally got a work laptop. Finally. It was worth the wait though, I now have a shiny new laptop with a glowing RGB star on the lid. 
 
