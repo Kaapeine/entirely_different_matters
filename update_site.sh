@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [$1=-f]
+if [$1 = -f]
 then
 	cd public
 	rm -rf *
