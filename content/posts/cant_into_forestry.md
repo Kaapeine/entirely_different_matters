@@ -1,5 +1,5 @@
 ---
-title: "Cant_into_forestry"
+title: "Can't into Forestry"
 date: 2022-07-18T20:13:36+05:30
 draft: False 
 ---
