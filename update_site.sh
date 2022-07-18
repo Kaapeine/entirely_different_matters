@@ -1,6 +1,9 @@
 #!/bin/bash
 cd public
 rm -rf *
+git add .
+git commit -m "Deleting"
+git push
 cd ..
 
 hugo
