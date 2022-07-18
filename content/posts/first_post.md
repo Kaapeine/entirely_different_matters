@@ -1,5 +1,5 @@
 ---
-title: "Ricing as an artistic expression of laziness"
+title: "Ricing = Procrastination"
 date: 2022-06-06T00:37:07+05:30
 draft: false 
 ---
