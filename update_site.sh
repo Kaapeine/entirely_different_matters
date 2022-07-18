@@ -1,10 +1,14 @@
 #!/bin/bash
-cd public
-rm -rf *
-git add .
-git commit -m "Deleting"
-git push
-cd ..
+
+if [$1=-f]
+then
+	cd public
+	rm -rf *
+	git add .
+	git commit -m "Deleting"
+	git push
+	cd ..
+fi
 
 hugo
 
