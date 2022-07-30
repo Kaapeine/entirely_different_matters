@@ -9,4 +9,7 @@ I ran into lots of issues trying to get the SFM example to work with C++, mostly
 #define CERES_FOUND 1
 ```
 
-before I included the SFM libraries. This fixed the SFM issues but I still fazed issues with the VIZ module, until I realized I just had not added that to cmake. Why is cmake so unintuitive to use?
+before I included the SFM libraries. This fixed the SFM issues but I still faced issues with the VIZ module, until I realized I just had not added that dependency to cmake. 
+
+Why is cmake so unintuitive to use?
+
