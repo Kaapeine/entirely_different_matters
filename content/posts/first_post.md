@@ -5,8 +5,6 @@ draft: false
 ---
 I finally got a work laptop. Finally. It was worth the wait though, I now have a shiny new laptop with a glowing RGB star on the lid. 
 
-![MFW when RGB](/sotrue.jpeg)
-
 I was looking forward to this for weeks. Just me and my laptop, all alone in my house. Just imagine all the projects I can do! All the shitty memes I can make on Photoshop! All the brilliantly written, beautifully designed, post-modern indie video games that I can play! Endless possibilities, all cut off from me because I needed my computer for work. 
 
 Anyhow, I installed Ubuntu on my laptop. Go ahead, make fun of me, but Ubuntu just works. I felt the urge the install something wackier but I'm a big boy now. I need something I can just use, without having to worry about Bluetooth drivers bricking my kernel. 
