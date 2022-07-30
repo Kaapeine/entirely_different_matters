@@ -3,7 +3,7 @@ title: "Ricing = Procrastination"
 date: 2022-06-06T00:37:07+05:30
 draft: false 
 ---
-I finally got a work laptop. Finally. It was worth the wait though, I now have a shiny new top of the line gaming laptop with a glowing RGB star on the lid. But oh, they forgot a webcam. Guess they really know their gamer audience.   
+I finally got a work laptop. Finally. It was worth the wait though, I now have a shiny new top of the line gaming laptop with a glowing RGB star on the lid. But oh, they forgot a webcam. 
 
 I was looking forward to this for weeks. Just me and my laptop. I was fantasizing about all the projects I could finally do, all the shitty memes I could make on Photoshop, all the brilliantly written, beautifully designed, post-modern indie video games that I had missed out on. Endless possibilities, all cut off from me because I'd needed my computer for work. 
 
