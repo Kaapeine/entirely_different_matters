@@ -13,3 +13,6 @@ But you know what, unixporn just looks so aesthetic. And I have no self control.
 
 I've done this way too often. Organizing and making things prettier instead of actually working. Now that I see how ridiculous this is getting, and how I'll probably end up doing the same thing with this blog, I am going to stop. So apologies if this website looks very cookie-cutter.
 
+> Linux is only free if your time has no value
+>
+> -- Jamie Zawinski
