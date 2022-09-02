@@ -5,6 +5,10 @@ title = "Entirely Different Matters"
 [[menu.main]]
 name = "About"
 url = "/about"
+weight = 5
+[[menu.main]]
+name = "Art"
+url = "/art"
 weight = 4
 [[menu.main]]
 name = "Projects"
@@ -38,6 +42,9 @@ name = "github"
 [[params.social]]
 link = "https://www.linkedin.com/in/shrivathsams"
 name = "linkedin"
+[[params.social]]
+link = "https://twitter.com/Kaapeine"
+name = "twitter"
 [[params.social]]
 link = "msshrivathsa@gmail.com"
 name = "email"
