@@ -5,6 +5,9 @@ draft: false
 ---
 Creative coding and other stuff goes here:
 
+### Aami and the Mangrove
+Play it [here!](/aatm/index.html)
+
 ### Cellular Automata (Rule 30)
 Here's the link to run it - [link](/p5/r30/index.html)
 
